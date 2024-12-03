@@ -10,5 +10,13 @@ git clone https://github.com/gcba/obelisco-editor
 ```
 
 ```bash
+cd obelisco-editor
+```
+
+```bash
+npm i
+```
+
+```bash
 npm run dev
 ```
