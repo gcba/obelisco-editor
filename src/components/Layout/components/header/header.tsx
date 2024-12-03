@@ -35,7 +35,7 @@ export const Header = () => {
                     </button>
                     <div className="dropdown-menu">
                       <a className="dropdown-item" href="https://gcba.github.io/Obelisco-V2/documentation">
-                        <span className="item-text">Migrar a Obelisco v.2</span>
+                        <span className="item-text">Obelisco v.2</span>
                       </a>
                       <a className="dropdown-item" href="https://gcba.github.io/obelisco-v1">
                         <span className="item-text">Obelisco v.1
